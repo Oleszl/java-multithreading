@@ -1,7 +1,7 @@
 package task1;
 
 public class Result {
-     int value;
+     private int value;
 
     public int getValue() {
         return value;
